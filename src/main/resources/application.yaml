@@ -1,0 +1,9 @@
+app:
+user : hr
+password : hr
+hosturl: jdbc:oracle:thin:@localhost:1521/ORCLPDB
+driverType: Array
+
+server:
+port: 8080
+host: 0.0.0.0

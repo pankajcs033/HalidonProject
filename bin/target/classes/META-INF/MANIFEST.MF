@@ -1,0 +1,55 @@
+Manifest-Version: 1.0
+Built-By: Pankaj
+Build-Jdk: 17.0.3
+Class-Path: libs/helidon-microprofile-core-3.0.1.jar libs/helidon-microp
+ rofile-server-3.0.1.jar libs/helidon-microprofile-cdi-3.0.1.jar libs/we
+ ld-se-core-3.0.1.jar libs/weld-core-impl-3.0.1.jar libs/weld-environmen
+ t-common-4.0.2.Final.jar libs/weld-api-4.0.SP1.jar libs/weld-spi-4.0.SP
+ 1.jar libs/jboss-logging-3.4.2.Final.jar libs/jboss-classfilewriter-1.2
+ .5.Final.jar libs/helidon-webserver-3.0.1.jar libs/helidon-common-react
+ ive-3.0.1.jar libs/helidon-common-mapper-3.0.1.jar libs/helidon-media-c
+ ommon-3.0.1.jar libs/helidon-common-key-util-3.0.1.jar libs/helidon-log
+ ging-common-3.0.1.jar libs/helidon-tracing-3.0.1.jar libs/helidon-traci
+ ng-config-3.0.1.jar libs/netty-codec-http-4.1.77.Final.jar libs/netty-c
+ ommon-4.1.77.Final.jar libs/netty-transport-4.1.77.Final.jar libs/netty
+ -codec-4.1.77.Final.jar libs/netty-handler-4.1.77.Final.jar libs/netty-
+ resolver-4.1.77.Final.jar libs/helidon-webserver-static-content-3.0.1.j
+ ar libs/helidon-common-media-type-3.0.1.jar libs/helidon-webserver-jers
+ ey-3.0.1.jar libs/helidon-jersey-server-3.0.1.jar libs/jersey-server-3.
+ 0.5.jar libs/jakarta.validation-api-3.0.0.jar libs/netty-buffer-4.1.77.
+ Final.jar libs/jakarta.interceptor-api-2.0.0.jar libs/jakarta.enterpris
+ e.cdi-api-3.0.0.jar libs/jakarta.el-api-4.0.0.jar libs/helidon-media-js
+ onp-3.0.1.jar libs/helidon-config-yaml-3.0.1.jar libs/jersey-weld2-se-3
+ .0.5.jar libs/jersey-cdi1x-3.0.5.jar libs/helidon-jersey-media-jsonp-3.
+ 0.1.jar libs/jersey-media-json-processing-3.0.5.jar libs/parsson-media-
+ 1.0.2.jar libs/helidon-microprofile-config-3.0.1.jar libs/helidon-confi
+ g-mp-3.0.1.jar libs/helidon-config-encryption-3.0.1.jar libs/helidon-co
+ mmon-crypto-3.0.1.jar libs/helidon-config-object-mapping-3.0.1.jar libs
+ /helidon-microprofile-openapi-3.0.1.jar libs/microprofile-config-api-3.
+ 0.1.jar libs/helidon-openapi-3.0.1.jar libs/smallrye-open-api-core-2.1.
+ 16.jar libs/smallrye-open-api-jaxrs-2.1.16.jar libs/snakeyaml-1.30.jar 
+ libs/helidon-config-3.0.1.jar libs/microprofile-openapi-api-3.0.jar lib
+ s/helidon-webserver-cors-3.0.1.jar libs/microprofile-metrics-api-4.0.ja
+ r libs/helidon-microprofile-metrics-3.0.1.jar libs/helidon-common-3.0.1
+ .jar libs/helidon-service-common-rest-cdi-3.0.1.jar libs/helidon-servic
+ e-common-rest-3.0.1.jar libs/helidon-metrics-api-3.0.1.jar libs/helidon
+ -common-http-3.0.1.jar libs/helidon-metrics-service-api-3.0.1.jar libs/
+ helidon-common-service-loader-3.0.1.jar libs/jakarta.annotation-api-2.0
+ .0.jar libs/helidon-metrics-3.0.1.jar libs/helidon-common-configurable-
+ 3.0.1.jar libs/helidon-microprofile-health-3.0.1.jar libs/helidon-healt
+ h-3.0.1.jar libs/helidon-fault-tolerance-3.0.1.jar libs/microprofile-he
+ alth-api-4.0.jar libs/helidon-health-common-3.0.1.jar libs/jakarta.json
+ .bind-api-2.0.0.jar libs/jersey-media-json-binding-3.0.5.jar libs/jerse
+ y-common-3.0.5.jar libs/jakarta.ws.rs-api-3.0.0.jar libs/jakarta.inject
+ -api-2.0.0.jar libs/osgi-resource-locator-1.0.3.jar libs/jakarta.json-a
+ pi-2.0.1.jar libs/parsson-1.0.2.jar libs/yasson-2.0.4.jar libs/jakarta.
+ json-2.0.0-module.jar libs/jandex-2.4.3.Final.jar libs/jakarta.activati
+ on-api-2.0.1.jar libs/helidon-jersey-client-3.0.1.jar libs/jersey-clien
+ t-3.0.5.jar libs/jersey-hk2-3.0.5.jar libs/hk2-locator-3.0.3.jar libs/a
+ opalliance-repackaged-3.0.3.jar libs/hk2-api-3.0.3.jar libs/hk2-utils-3
+ .0.3.jar libs/javassist-3.28.0-GA.jar libs/jakarta.xml.bind-api-3.0.1.j
+ ar libs/jakarta.activation-2.0.1.jar libs/helidon-common-context-3.0.1.
+ jar libs/helidon-config-yaml-mp-3.0.1.jar
+Main-Class: io.helidon.microprofile.cdi.Main
+Created-By: Maven Integration for Eclipse
+
